@@ -2,5 +2,5 @@ function a(){
   console.log("A");
 }
 function b(){
-  console.log("x");
+  console.log("X");
 }
